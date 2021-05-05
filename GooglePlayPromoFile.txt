@@ -1,0 +1,1 @@
+{"gameName":"Truck Driving","storeLink":"https://play.google.com/store/apps/details?id=com.offroad.us.army.truck.driving.simulator","imageUrls":["https://github.com/Zohaib-Saleem/CrossPromo"]}
