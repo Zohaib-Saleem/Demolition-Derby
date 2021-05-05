@@ -1,1 +1,1 @@
-{"gameName":"Truck Driving","storeLink":"https://play.google.com/store/apps/details?id=com.offroad.us.army.truck.driving.simulator","imageUrls":["https://play-lh.googleusercontent.com/8xb63dQhAdGk1W--3FagV99CaeMsLqJCTjC-mR7A1dUZUdiAEZXx_y7JIm-H1bajCW7x"]}
+{"gameName":"Truck Driving","storeLink":"https://play.google.com/store/apps/details?id=com.offroad.us.army.truck.driving.simulator","imageUrls":["https://drive.google.com/drive/folders/1vsjXem0bsLhkH_cwPahO_fXH8DIcHfg2"]}
