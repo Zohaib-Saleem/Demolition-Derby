@@ -1,2 +1,0 @@
-# CrossPromo
-CrossPromo games
